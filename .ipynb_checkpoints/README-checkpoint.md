@@ -1,3 +1,5 @@
+## [View Full Project Here](./gb_model.ipynb)
+
 ## Executive Summary:
 There are many internet services available. To increase revenue, ISPs need to retain members for as long as possible . Getting new customers is not valuable if their customers are churning after a short period of time. 
 
